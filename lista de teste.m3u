@@ -103,7 +103,7 @@ http://45.58.126.146:14348/
 http://45.58.126.146:14351/
 #EXTINF:0 type="stream" channelId="2603" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINE ACTION
 http://45.58.126.146:14354/
-#EXTINF:0 type="stream" channelId="2603" group="FILMES" logo="http://51.83.238.223:16703/" tvg-country="BR", TELECINE ACTION HD
+#EXTINF:0 type="stream" channelId="2603" group="FILMES" logo="" tvg-country="PT", TELECINE ACTION HD
 http://45.58.126.146:14510/
 #EXTINF:0 type="stream" channelId="2603" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINE ACTION
 https://dmnet.distv.net/auth/150.m3u8/

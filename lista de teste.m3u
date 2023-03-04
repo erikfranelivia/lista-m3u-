@@ -1,4 +1,4 @@
-#EXTM3U url-tvg = "http://xcui.vitvabc.xyz:8880/"
+#EXTM3U 
 #EXTINF:0 type="stream" channelId="2892" group="ABERTOS" logo="https://distv.net/icones/globo.png" tvg-country="BR", Globo
 http://45.58.126.146:14085/
 #EXTINF:0 type="stream" channelId="2892" group="ABERTOS" logo="https://distv.net/icones/globo.png" tvg-country="BR", GLOBO

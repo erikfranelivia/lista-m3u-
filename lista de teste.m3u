@@ -59,7 +59,7 @@ http://45.58.126.146:14284/
 http://45.58.126.146:14287/
 #EXTINF:0 type="stream" channelId="2503" group="FILMES" logo="https://distv.net/icones/a&e.png" tvg-country="BR", A&E HD
 http://45.58.126.146:14293/
-#EXTINF:0 type="stream" channelId="2501" group="FILMES" logo="https://distv.net/icones/amc.png" tvg-country="BR", AMC HD
+#EXTINF:0 type="stream" channelId="2501" group="FILMES" logo="http://xcui.vitvabc.xyz:8880/images/3654b34017508a963ccce2426e91e4cd.png" tvg-country="BR", AMC HD
 http://45.58.126.146:14296/
 #EXTINF:0 type="stream" channelId="2246" group="FILMES" logo="https://distv.net/icones/axn.png" tvg-country="BR", AXN HD
 http://45.58.126.146:14299/

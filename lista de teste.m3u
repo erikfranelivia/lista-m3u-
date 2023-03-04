@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="2892" group="ABERTOS" logo="https://distv.net/icones/globo.png" tvg-country="BR", Globo
 http://45.58.126.146:14085/
-#EXTINF:0 type="stream" channelId="2892" group="ABERTOS" logo="https://distv.net/icones/globo.png" tvg-country="BR", Globo
+#EXTINF:0 type="stream" channelId="2892" group="ABERTOS" logo="https://distv.net/icones/globo.png" tvg-country="BR", GLOBO
 http://45.58.126.146:14090/
 #EXTINF:0 type="stream" channelId="2571" group="ABERTOS" logo="https://distv.net/icones/sbt.png" tvg-country="BR",SBT
 http://45.58.126.146:14123/

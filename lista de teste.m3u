@@ -112,7 +112,7 @@ https://dmnet.distv.net/auth/151.m3u8/
 #EXTINF:0 type="stream" channelId="2606" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINE FUN HD 
 https://dmnet.distv.net/auth/152.m3u8/
 #EXTINF:0 type="stream" channelId="2608" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINE PIPOCA HD
-https://dmnet.distv.net/auth/153.m3u8/
+http://51.83.238.223:16763/
 #EXTINF:0 type="stream" channelId="2610" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINE PREMIUM HD
 https://dmnet.distv.net/auth/154.m3u8/
 #EXTINF:0 type="stream" channelId="2611" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINE TOUCH HD

@@ -5,9 +5,9 @@ http://45.58.126.146:14085/
 http://45.58.126.146:14090/
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" channelId="2571" group="ABERTOS" logo="https://distv.net/icones/sbt.png" tvg-country="BR",SBT HD
 http://45.58.126.146:14123/
-#EXTINF:0 type="stream" channelId="2563" group="ABERTOS" logo="https://distv.net/icones/band.png" tvg-country="BR", BAND SP HD
+#EXTINF:0 type="stream" channelId="2563" group="ABERTOS" logo="https://distv.net/icones/band.png" tvg-country="BR", BAND HD
 http://45.58.126.146:14140/
-#EXTINF:0 type="stream" channelId="2563" group="ABERTOS" logo="https://distv.net/icones/band.png", BAND HD
+#EXTINF:0 type="stream" channelId="2563" group="ABERTOS" logo="https://distv.net/icones/band.png", tvg-country="BR" BAND HD
 http://45.58.126.146:14144/
 #EXTINF:0 type="stream" channelId="2562" group="ABERTOS" logo="https://distv.net/icones/record.png" tvg-country="BR", RECORD UHD
 http://45.58.126.146:14153/
@@ -99,7 +99,7 @@ http://45.58.126.146:14342/
 http://45.58.126.146:14345/
 #EXTINF:0 type="stream" channelId="187" group="FILMES" logo="http://xplussport.com:8080/images/5b6f110dd4ba9cab91e79af679dce8fe.png" tvg-country="BR", UNIVERSAL CHANNEL HD
 http://45.58.126.146:14348/
-#EXTINF:0 type="stream" channelId="2903" group="FILMES" logo="https://distv.net/icones/warner.png" tvg-country="BR", WARNER CHANNEL HD
+#EXTINF:0 type="stream" channelId="2903" group="FILMES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/400px-Warner2018LA.png" tvg-country="BR", WARNER CHANNEL HD
 http://45.58.126.146:14351/
 #EXTINF:0 type="stream" channelId="2603" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINE ACTION HD
 http://45.58.126.146:14354/

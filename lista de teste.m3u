@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/erikfranelivia/LISTA-EPG-XMLTV/main/vivo.com.br.channels.xml"
 #EXTINF:0 type="stream" channelId="2892" group="ABERTOS" logo="https://distv.net/icones/globo.png" tvg-country="BR", GLOBO SP HD
 http://45.58.126.146:14085/
-#EXTINF:0 type="stream" channelId="2892" group="ABERTOS" logo="https://distv.net/icones/globo.png" tvg-country="BR", TV DIARIO HD
+#EXTINF:0 type="stream" channelId="2892" group="ABERTOS" logo="https://distv.net/icones/globo.png" tvg-country="BR", GLOBO RJ HD
 http://45.58.126.146:14090/
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" channelId="2571" group="ABERTOS" logo="https://distv.net/icones/sbt.png" tvg-country="BR",SBT HD
 http://45.58.126.146:14123/

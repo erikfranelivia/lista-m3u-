@@ -3,7 +3,7 @@
 http://45.58.126.146:14085/
 #EXTINF:0 type="stream" channelId="2892" group="ABERTOS" logo="https://distv.net/icones/globo.png" tvg-country="BR", GLOBO
 http://45.58.126.146:14090/
-#EXTINF:0 type="stream" channelId="2571" group="ABERTOS" logo="https://distv.net/icones/sbt.png" tvg-country="BR",SBT
+EXTINF:-1 tvg-id="SBT" type="stream" channelId="2571" group="ABERTOS" logo="https://distv.net/icones/sbt.png" tvg-country="BR",SBT
 http://45.58.126.146:14123/
 #EXTINF:0 type="stream" channelId="2563" group="ABERTOS" logo="https://distv.net/icones/band.png" tvg-country="Br", BAND SP
 http://45.58.126.146:14140/

@@ -81,7 +81,7 @@ http://45.58.126.146:14317/
 http://45.58.126.146:14320/
 #EXTINF:0 type="stream" channelId="2896" group="FILMES" logo="https://distv.net/icones/space.png" tvg-country="BR", SPACE HD
 http://45.58.126.146:14323/
-#EXTINF:0 type="stream" channelId="284" group="FILMES" logo="https://distv.net/icones/cinecanal.png" tvg-country="BR", CINE CANAL HD
+#EXTINF:0 type="stream" channelId="284" group="FILMES" logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" tvg-country="BR", CINE CANAL HD
 http://45.58.126.146:14326/
 #EXTINF:0 type="stream" channelId="1287" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", STAR CHANNEL HD
 http://45.58.126.146:14329/

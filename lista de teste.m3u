@@ -21,7 +21,7 @@ http://45.58.126.146:14200/
 http://45.58.126.146:14203/
 #EXTINF:0 type="stream" channelId="2581" group="DESENHOS" logo="https://distv.net/icones/gloob.png" tvg-country="BR", GLOOB HD
 http://45.58.126.146:14209/
-#EXTINF:0 type="stream" channelId="322" group="DESENHOS" logo="https://distv.net/icones/nickjr.png" tvg-country="BR", NICK JR. HD
+#EXTINF:0 type="stream" channelId="322" group="DESENHOS" logo="https://distv.net/icones/nickjr.png" tvg-country="BR", NICK JR HD
 http://45.58.126.146:14212/
 #EXTINF:0 type="stream" channelId="3430" group="DESENHOS" logo="https://distv.net/icones/nickelodeon.png" tvg-country="BR", NICKELODEON HD
 http://45.58.126.146:14215/
@@ -97,7 +97,7 @@ http://45.58.126.146:14341/
 http://45.58.126.146:14342/
 #EXTINF:0 type="stream" channelId="2685" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TNT SERIES HD
 http://45.58.126.146:14345/
-#EXTINF:0 type="stream" channelId="187" group="FILMES" logo="https://distv.net/icones/universaltv.png" tvg-country="BR", UNIVERSAL TV HD
+#EXTINF:0 type="stream" channelId="187" group="FILMES" logo="https://distv.net/icones/universaltv.png" tvg-country="BR", UNIVERSAL CHANNEL HD
 http://45.58.126.146:14348/
 #EXTINF:0 type="stream" channelId="2903" group="FILMES" logo="https://distv.net/icones/warner.png" tvg-country="BR", WARNER HD
 http://45.58.126.146:14351/

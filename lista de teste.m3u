@@ -69,7 +69,7 @@ http://45.58.126.146:14302/
 http://45.58.126.146:14303/
 #EXTINF:0 type="stream" channelId="1326" group="FILMES" logo="https://distv.net/icones/cinemax.png" tvg-country="BR", CINEMAX HD
 http://45.58.126.146:14305/
-#EXTINF:0 type="stream" channelId="1191" group="FILMES" logo="https://distv.net/icones/comedycentral.png" tvg-country="BR", COMEDY CENTRAL HD
+#EXTINF:0 type="stream" channelId="1191" group="FILMES" logo="https://distv.net/icones/comedycentral.png" tvg-country="BR", COMEDY CENTRAL 4K
 http://45.58.126.146:14308/
 #EXTINF:0 type="stream" channelId="208" group="FILMES" logo="https://distv.net/icones/fox.png" tvg-country="BR", FOX HD
 http://45.58.126.146:14311/
@@ -77,7 +77,7 @@ http://45.58.126.146:14311/
 http://45.58.126.146:14314/
 #EXTINF:0 type="stream" channelId="2589" group="FILMES" logo="https://distv.net/icones/megapix.png" tvg-country="BR", MEGAPIX HD
 http://45.58.126.146:14317/
-#EXTINF:0 type="stream" channelId="4036" group="FILMES" logo="https://distv.net/icones/paramountnetwork.png" tvg-country="BR", PARAMOUNT NETWORK
+#EXTINF:0 type="stream" channelId="4036" group="FILMES" logo="https://distv.net/icones/paramountnetwork.png" tvg-country="BR", PARAMOUNT NETWORK HD
 http://45.58.126.146:14320/
 #EXTINF:0 type="stream" channelId="2896" group="FILMES" logo="https://distv.net/icones/space.png" tvg-country="BR", SPACE HD
 http://45.58.126.146:14323/
@@ -91,7 +91,7 @@ http://45.58.126.146:14332/
 http://45.58.126.146:14335/
 #EXTINF:0 type="stream" channelId="2602" group="FILMES" logo="https://distv.net/icones/tbsbrasil.png" tvg-country="BR", TBS BRASIL HD
 http://45.58.126.146:14338/
-#EXTINF:0 type="stream" channelId="2683" group="FILMES" logo="https://distv.net/icones/tnt.png" tvg-country="BR", TNT
+#EXTINF:0 type="stream" channelId="2683" group="FILMES" logo="https://distv.net/icones/tnt.png" tvg-country="BR", TNT UHD
 http://45.58.126.146:14341/
 #EXTINF:0 type="stream" channelId="2900" group="FILMES" logo="https://distv.net/icones/tnt.png" tvg-country="BR", TNT HD
 http://45.58.126.146:14342/

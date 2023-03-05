@@ -31,7 +31,7 @@ http://45.58.126.146:14231/
 http://45.58.126.146:14234/
 #EXTINF:0 type="stream" channelId="2893" group="JORNALISMO" logo="https://distv.net/icones/globonews.png" tvg-country="BR", GLOBO NEWS HD
 http://45.58.126.146:14238/
-#EXTINF:0 type="stream" channelId="-1" group="JORNALISMO" logo="https://distv.net/icones/jovempannews.png" tvg-country="BR", JOVEM PAN NEWS HD
+#EXTINF:0 type="stream" channelId="-1" group="JORNALISMO" logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png" tvg-country="BR", JOVEM PAN NEWS HD
 http://45.58.126.146:14241/
 #EXTINF:0 type="stream" channelId="240" group="VARIEDADES" logo="https://distv.net/icones/animalplanet.png" tvg-country="BR", ANIMAL PLANET HD
 http://45.58.126.146:14249/

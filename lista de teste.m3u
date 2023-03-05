@@ -79,7 +79,7 @@ http://45.58.126.146:14314/
 http://45.58.126.146:14317/
 #EXTINF:0 type="stream" channelId="4036" group="FILMES" logo="https://distv.net/icones/paramountnetwork.png" tvg-country="BR", PARAMOUNT HD
 http://45.58.126.146:14320/
-#EXTINF:0 type="stream" channelId="2896" group="FILMES" logo="https://distv.net/icones/space.png" tvg-country="BR", SPACE UHD
+#EXTINF:0 type="stream" channelId="2896" group="FILMES" logo="https://distv.net/icones/space.png" tvg-country="BR", SPACE LT UHD
 http://45.58.126.146:14323/
 #EXTINF:0 type="stream" channelId="284" group="FILMES" logo="https://distv.net/icones/cinecanal.png" tvg-country="BR", CINE CANAL HD
 http://45.58.126.146:14326/

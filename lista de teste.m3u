@@ -99,7 +99,7 @@ http://45.58.126.146:14342/
 http://45.58.126.146:14345/
 #EXTINF:0 type="stream" channelId="187" group="FILMES" logo="https://distv.net/icones/universaltv.png" tvg-country="BR", UNIVERSAL CHANNEL HD
 http://45.58.126.146:14348/
-#EXTINF:0 type="stream" channelId="2903" group="FILMES" logo="https://distv.net/icones/warner.png" tvg-country="BR", WARNER HD
+#EXTINF:0 type="stream" channelId="2903" group="FILMES" logo="https://distv.net/icones/warner.png" tvg-country="BR", WARNER CHANNEL HD
 http://45.58.126.146:14351/
 #EXTINF:0 type="stream" channelId="2603" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINE ACTION HD
 http://45.58.126.146:14354/
@@ -109,11 +109,11 @@ http://45.58.126.146:14510/
 https://dmnet.distv.net/auth/150.m3u8/
 #EXTINF:0 type="stream" channelId="2605" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINE CULT HD
 https://dmnet.distv.net/auth/151.m3u8/
-#EXTINF:0 type="stream" channelId="2606" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINI FUN HD 
+#EXTINF:0 type="stream" channelId="2606" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINE FUN HD 
 https://dmnet.distv.net/auth/152.m3u8/
 #EXTINF:0 type="stream" channelId="2608" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINE PIPOCA HD
 https://dmnet.distv.net/auth/153.m3u8/
-#EXTINF:0 type="stream" channelId="2610" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINI PREMIUM HD
+#EXTINF:0 type="stream" channelId="2610" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINE PREMIUM HD
 https://dmnet.distv.net/auth/154.m3u8/
 #EXTINF:0 type="stream" channelId="2611" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINE TOUCH HD
 https://dmnet.distv.net/auth/155.m3u8/

@@ -5,17 +5,17 @@ http://45.58.126.146:14085/
 http://45.58.126.146:14090/
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" channelId="2571" group="ABERTOS" logo="https://distv.net/icones/sbt.png" tvg-country="BR",SBT HD
 http://45.58.126.146:14123/
-#EXTINF:0 type="stream" channelId="2563" group="ABERTOS" logo="https://distv.net/icones/band.png" tvg-country="Br", BAND SP HD
+#EXTINF:0 type="stream" channelId="2563" group="ABERTOS" logo="https://distv.net/icones/band.png" tvg-country="BR", BAND SP HD
 http://45.58.126.146:14140/
 #EXTINF:0 type="stream" channelId="2563" group="ABERTOS" logo="https://distv.net/icones/band.png", BAND HD
 http://45.58.126.146:14144/
-#EXTINF:0 type="stream" channelId="2562" group="ABERTOS" logo="https://distv.net/icones/record.png" tvg-country="BR", RECORD
+#EXTINF:0 type="stream" channelId="2562" group="ABERTOS" logo="https://distv.net/icones/record.png" tvg-country="BR", RECORD UHD
 http://45.58.126.146:14153/
 #EXTINF:0 type="stream" channelId="2562" group="ABERTOS" logo="https://distv.net/icones/record.png" tvg-country="BR", RECORD HD
 http://45.58.126.146:14155/
 #EXTINF:0 type="stream" channelId="40" group="DESENHOS" logo="https://distv.net/icones/cartoonnetwork.png" tvg-country="BR", CARTOON NETWORK HD
 http://45.58.126.146:14197/
-#EXTINF:0 type="stream" channelId="1306" group="DESENHOS" logo="https://distv.net/icones/cartoonito.png" tvg-country="BR", CARTOONITO
+#EXTINF:0 type="stream" channelId="1306" group="DESENHOS" logo="https://distv.net/icones/cartoonito.png" tvg-country="BR", CARTOONITO HD
 http://45.58.126.146:14200/
 #EXTINF:0 type="stream" channelId="2505" group="DESENHOS" logo="https://distv.net/icones/discoverykids.png" tvg-country="BR", DISCOVERY KIDS HD
 http://45.58.126.146:14203/
@@ -31,7 +31,7 @@ http://45.58.126.146:14231/
 http://45.58.126.146:14234/
 #EXTINF:0 type="stream" channelId="2893" group="JORNALISMO" logo="https://distv.net/icones/globonews.png" tvg-country="BR", GLOBO NEWS HD
 http://45.58.126.146:14238/
-#EXTINF:0 type="stream" channelId="-1" group="JORNALISMO" logo="https://distv.net/icones/jovempannews.png" tvg-country="BR", JOVEM PAN NEWS
+#EXTINF:0 type="stream" channelId="-1" group="JORNALISMO" logo="https://distv.net/icones/jovempannews.png" tvg-country="BR", JOVEM PAN NEWS HD
 http://45.58.126.146:14241/
 #EXTINF:0 type="stream" channelId="240" group="VARIEDADES" logo="https://distv.net/icones/animalplanet.png" tvg-country="BR", ANIMAL PLANET HD
 http://45.58.126.146:14249/
@@ -97,7 +97,7 @@ http://45.58.126.146:14341/
 http://45.58.126.146:14342/
 #EXTINF:0 type="stream" channelId="2685" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TNT SERIES HD
 http://45.58.126.146:14345/
-#EXTINF:0 type="stream" channelId="187" group="FILMES" logo="https://distv.net/icones/universaltv.png" tvg-country="BR", UNIVERSAL TV
+#EXTINF:0 type="stream" channelId="187" group="FILMES" logo="https://distv.net/icones/universaltv.png" tvg-country="BR", UNIVERSAL TV HD
 http://45.58.126.146:14348/
 #EXTINF:0 type="stream" channelId="2903" group="FILMES" logo="https://distv.net/icones/warner.png" tvg-country="BR", WARNER HD
 http://45.58.126.146:14351/

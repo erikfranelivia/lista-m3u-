@@ -1,19 +1,19 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/erikfranelivia/LISTA-EPG-XMLTV/main/vivo.com.br.channels.xml"
-#EXTINF:0 type="stream" channelId="2892" group="ABERTOS" logo="https://distv.net/icones/globo.png" tvg-country="BR", Globo
+#EXTINF:0 type="stream" channelId="2892" group="ABERTOS" logo="https://distv.net/icones/globo.png" tvg-country="BR", GLOBO SP HD
 http://45.58.126.146:14085/
-#EXTINF:0 type="stream" channelId="2892" group="ABERTOS" logo="https://distv.net/icones/globo.png" tvg-country="BR", GLOBO
+#EXTINF:0 type="stream" channelId="2892" group="ABERTOS" logo="https://distv.net/icones/globo.png" tvg-country="BR", GLOBO HD
 http://45.58.126.146:14090/
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" channelId="2571" group="ABERTOS" logo="https://distv.net/icones/sbt.png" tvg-country="BR",SBT
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" channelId="2571" group="ABERTOS" logo="https://distv.net/icones/sbt.png" tvg-country="BR",SBT HD
 http://45.58.126.146:14123/
-#EXTINF:0 type="stream" channelId="2563" group="ABERTOS" logo="https://distv.net/icones/band.png" tvg-country="Br", BAND SP
+#EXTINF:0 type="stream" channelId="2563" group="ABERTOS" logo="https://distv.net/icones/band.png" tvg-country="Br", BAND SP HD
 http://45.58.126.146:14140/
-#EXTINF:0 type="stream" channelId="2563" group="ABERTOS" logo="https://distv.net/icones/band.png", BAND
+#EXTINF:0 type="stream" channelId="2563" group="ABERTOS" logo="https://distv.net/icones/band.png", BAND HD
 http://45.58.126.146:14144/
 #EXTINF:0 type="stream" channelId="2562" group="ABERTOS" logo="https://distv.net/icones/record.png" tvg-country="BR", RECORD
 http://45.58.126.146:14153/
-#EXTINF:0 type="stream" channelId="2562" group="ABERTOS" logo="https://distv.net/icones/record.png" tvg-country="BR", RECORD
+#EXTINF:0 type="stream" channelId="2562" group="ABERTOS" logo="https://distv.net/icones/record.png" tvg-country="BR", RECORD HD
 http://45.58.126.146:14155/
-#EXTINF:0 type="stream" channelId="40" group="DESENHOS" logo="https://distv.net/icones/cartoonnetwork.png" tvg-country="BR", CARTOON NETWORK
+#EXTINF:0 type="stream" channelId="40" group="DESENHOS" logo="https://distv.net/icones/cartoonnetwork.png" tvg-country="BR", CARTOON NETWORK HD
 http://45.58.126.146:14197/
 #EXTINF:0 type="stream" channelId="1306" group="DESENHOS" logo="https://distv.net/icones/cartoonito.png" tvg-country="BR", CARTOONITO
 http://45.58.126.146:14200/
@@ -21,7 +21,7 @@ http://45.58.126.146:14200/
 http://45.58.126.146:14203/
 #EXTINF:0 type="stream" channelId="2581" group="DESENHOS" logo="https://distv.net/icones/gloob.png" tvg-country="BR", GLOOB HD
 http://45.58.126.146:14209/
-#EXTINF:0 type="stream" channelId="322" group="DESENHOS" logo="https://distv.net/icones/nickjr.png" tvg-country="BR", NICK JR.
+#EXTINF:0 type="stream" channelId="322" group="DESENHOS" logo="https://distv.net/icones/nickjr.png" tvg-country="BR", NICK JR. HD
 http://45.58.126.146:14212/
 #EXTINF:0 type="stream" channelId="3430" group="DESENHOS" logo="https://distv.net/icones/nickelodeon.png" tvg-country="BR", NICKELODEON HD
 http://45.58.126.146:14215/
@@ -41,7 +41,7 @@ http://45.58.126.146:14252/
 http://45.58.126.146:14255/
 #EXTINF:0 type="stream" channelId="341" group="VARIEDADES" logo="https://distv.net/icones/discoveryid.png" tvg-country="BR", DISCOVERY ID HD
 http://45.58.126.146:14258/
-#EXTINF:0 type="stream" channelId="1508" group="VARIEDADES" logo="https://distv.net/icones/discoveryscience.png" tvg-country="BR", DISCOVERY SCIENCE
+#EXTINF:0 type="stream" channelId="1508" group="VARIEDADES" logo="https://distv.net/icones/discoveryscience.png" tvg-country="BR", DISCOVERY SCIENCE HD
 http://45.58.126.146:14261/
 #EXTINF:0 type="stream" channelId="2558" group="VARIEDADES" logo="data:image/png;base64,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" tvg-country="BR", DISCOVERY THEATER HD
 http://45.58.126.146:14264/
@@ -89,7 +89,7 @@ http://45.58.126.146:14329/
 http://45.58.126.146:14332/
 #EXTINF:0 type="stream" channelId="1192" group="FILMES" logo="https://distv.net/icones/syfy.png" tvg-country="BR", SYFY HD
 http://45.58.126.146:14335/
-#EXTINF:0 type="stream" channelId="2602" group="FILMES" logo="https://distv.net/icones/tbsbrasil.png" tvg-country="BR", TBS BRASIL
+#EXTINF:0 type="stream" channelId="2602" group="FILMES" logo="https://distv.net/icones/tbsbrasil.png" tvg-country="BR", TBS BRASIL HD
 http://45.58.126.146:14338/
 #EXTINF:0 type="stream" channelId="2683" group="FILMES" logo="https://distv.net/icones/tnt.png" tvg-country="BR", TNT
 http://45.58.126.146:14341/

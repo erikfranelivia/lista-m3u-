@@ -67,7 +67,7 @@ http://45.58.126.146:14299/
 http://45.58.126.146:14302/
 #EXTINF:0 type="stream" channelId="188" group="VARIEDADES" logo="https://distv.net/icones/sonychannel.png" tvg-country="BR", SONY CHANNEL HD
 http://45.58.126.146:14303/
-#EXTINF:0 type="stream" channelId="1326" group="FILMES" logo="https://distv.net/icones/cinemax.png" tvg-country="BR", Cinemax
+#EXTINF:0 type="stream" channelId="1326" group="FILMES" logo="https://distv.net/icones/cinemax.png" tvg-country="BR", CINEMAX HD
 http://45.58.126.146:14305/
 #EXTINF:0 type="stream" channelId="1191" group="FILMES" logo="https://distv.net/icones/comedycentral.png" tvg-country="BR", COMEDY CENTRAL 4K
 http://45.58.126.146:14308/

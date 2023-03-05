@@ -77,7 +77,7 @@ http://45.58.126.146:14311/
 http://45.58.126.146:14314/
 #EXTINF:0 type="stream" channelId="2589" group="FILMES" logo="https://distv.net/icones/megapix.png" tvg-country="BR", MEGAPIX HD
 http://45.58.126.146:14317/
-#EXTINF:0 type="stream" channelId="4036" group="FILMES" logo="https://distv.net/icones/paramountnetwork.png" tvg-country="BR", PARAMOUNT HD
+#EXTINF:0 type="stream" channelId="4036" group="FILMES" logo="http://xplussport.com:8080/images/8963a6de4edb33ca23e7d4ae8d602158.png" tvg-country="BR", PARAMOUNT HD
 http://45.58.126.146:14320/
 #EXTINF:0 type="stream" channelId="2896" group="FILMES" logo="https://distv.net/icones/space.png" tvg-country="BR", SPACE HD
 http://45.58.126.146:14323/

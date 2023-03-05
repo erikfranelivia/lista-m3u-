@@ -7,7 +7,7 @@ http://45.58.126.146:14090/
 http://45.58.126.146:14123/
 #EXTINF:0 type="stream" channelId="2563" group="ABERTOS" logo="https://distv.net/icones/band.png" tvg-country="BR", BAND HD
 http://45.58.126.146:14140/
-#EXTINF:0 type="stream" channelId="2563" group="ABERTOS" logo="https://distv.net/icones/band.png" tvg-country="BR" BAND HD
+#EXTINF:0 type="stream" channelId="2563" group="ABERTOS" logo="https://distv.net/icones/band.png" tvg-country="BR", BAND HD
 http://45.58.126.146:14144/
 #EXTINF:0 type="stream" channelId="2562" group="ABERTOS" logo="https://distv.net/icones/record.png" tvg-country="BR", RECORD UHD
 http://45.58.126.146:14153/

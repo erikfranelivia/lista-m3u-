@@ -63,9 +63,9 @@ http://45.58.126.146:14293/
 http://45.58.126.146:14296/
 #EXTINF:0 type="stream" channelId="2246" group="FILMES" logo="https://distv.net/icones/axn.png" tvg-country="BR", AXN HD
 http://45.58.126.146:14299/
-#EXTINF:0 type="stream" channelId="530" group="VARIEDADES" logo="https://distv.net/icones/sonychannel.png" tvg-country="BR", SONY CHANNEL HD
+#EXTINF:0 type="stream" channelId="530" group="VARIEDADES" logo="https://distv.net/icones/sonychannel.png" tvg-country="BR", CANAL SONY HD
 http://45.58.126.146:14302/
-#EXTINF:0 type="stream" channelId="188" group="VARIEDADES" logo="https://distv.net/icones/sonychannel.png" tvg-country="BR", SONY CHANNEL HD
+#EXTINF:0 type="stream" channelId="188" group="VARIEDADES" logo="https://distv.net/icones/sonychannel.png" tvg-country="BR", CANAL SONY HD
 http://45.58.126.146:14303/
 #EXTINF:0 type="stream" channelId="1326" group="FILMES" logo="https://distv.net/icones/cinemax.png" tvg-country="BR", CINEMAX HD
 http://45.58.126.146:14305/

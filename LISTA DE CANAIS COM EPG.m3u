@@ -1,0 +1,120 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",GLOBO SP HD
+http://45.58.126.146:14085/
+#EXTINF:0 tvg-id="Globorj.br" group-title="Channels",GLOBO RJ HD
+http://45.58.126.146:14090/
+#EXTINF:0 tvg-id="Sbt.br" group-title="Channels",SBT HD
+http://45.58.126.146:14123/
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="Channels",BAND HD
+http://45.58.126.146:14140/
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="Channels",BAND HD
+http://45.58.126.146:14144/
+#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD UHD
+http://45.58.126.146:14153/
+#EXTINF:0 tvg-id="Rederecord.br" group-title="Channels",RECORD HD
+http://45.58.126.146:14155/
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Channels",CARTOON NETWORK HD
+http://45.58.126.146:14197/
+#EXTINF:0 tvg-id="Cartoonito.it" group-title="Channels",CARTOONITO HD
+http://45.58.126.146:14200/
+#EXTINF:0 tvg-id="Discoverykids.br" group-title="Channels",DISCOVERY KIDS HD
+http://45.58.126.146:14203/
+#EXTINF:0 tvg-id="Gloob.br" group-title="Channels",GLOOB HD
+http://45.58.126.146:14209/
+#EXTINF:0 tvg-id="NickJr.br" group-title="Channels",NICK JR HD
+http://45.58.126.146:14212/
+#EXTINF:0 tvg-id="Nickelodeon.br" group-title="Channels",NICKELODEON HD
+http://45.58.126.146:14215/
+#EXTINF:0 tvg-id="ext" group-title="Channels",BAND NEWS HD
+http://45.58.126.146:14231/
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN BRASIL HD
+http://45.58.126.146:14234/
+#EXTINF:0 tvg-id="Globonewshd.br" group-title="Channels",GLOBO NEWS HD
+http://45.58.126.146:14238/
+#EXTINF:0 tvg-id="ext" group-title="Channels",JOVEM PAN NEWS HD
+http://45.58.126.146:14241/
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="Channels",ANIMAL PLANET HD
+http://45.58.126.146:14249/
+#EXTINF:0 tvg-id="Discovery.br" group-title="Channels",DISCOVERY CHANNEL HD
+http://45.58.126.146:14252/
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY H&H HD
+http://45.58.126.146:14255/
+#EXTINF:0 tvg-id="InvestigationDiscoveryHD.us" group-title="Channels",DISCOVERY ID HD
+http://45.58.126.146:14258/
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="Channels",DISCOVERY SCIENCE HD
+http://45.58.126.146:14261/
+#EXTINF:0 tvg-id="Discoverytheaterhd.br" group-title="Channels",DISCOVERY THEATER HD
+http://45.58.126.146:14264/
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Channels",DISCOVERY TURBO HD
+http://45.58.126.146:14267/
+#EXTINF:0 tvg-id="Tlc.br" group-title="Channels",TLC HD
+http://45.58.126.146:14270/
+#EXTINF:0 tvg-id="Discoveryworld.br" group-title="Channels",DISCOVERY WORLD HD
+http://45.58.126.146:14273/
+#EXTINF:0 tvg-id="Historychannel.br" group-title="Channels",HISTORY HD
+http://45.58.126.146:14281/
+#EXTINF:0 tvg-id="H2.br" group-title="Channels",H2 HD
+http://45.58.126.146:14284/
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="Channels",NATIONAL GEOGRAPHIC HD
+http://45.58.126.146:14287/
+#EXTINF:0 tvg-id="Ae.br" group-title="Channels",A&E HD
+http://45.58.126.146:14293/
+#EXTINF:0 tvg-id="Amc.br" group-title="Channels",AMC HD
+http://45.58.126.146:14296/
+#EXTINF:0 tvg-id="Axn.br" group-title="Channels",AXN HD
+http://45.58.126.146:14299/
+#EXTINF:0 tvg-id="Sony.br" group-title="Channels",CANAL SONY HD
+http://45.58.126.146:14302/
+#EXTINF:0 tvg-id="Sony.br" group-title="Channels",CANAL SONY HD
+http://45.58.126.146:14303/
+#EXTINF:0 tvg-id="Cinemax.br" group-title="Channels",CINEMAX HD
+http://45.58.126.146:14305/
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL 4K
+http://45.58.126.146:14308/
+#EXTINF:0 tvg-id="Fx.br" group-title="Channels",FX HD
+http://45.58.126.146:14311/
+#EXTINF:0 tvg-id="Lifetime.br" group-title="Channels",LIFETIME HD
+http://45.58.126.146:14314/
+#EXTINF:0 tvg-id="Megapix.br" group-title="Channels",MEGAPIX HD
+http://45.58.126.146:14317/
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="Channels",PARAMOUNT HD
+http://45.58.126.146:14320/
+#EXTINF:0 tvg-id="Spacehd.br" group-title="Channels",SPACE HD
+http://45.58.126.146:14323/
+#EXTINF:0 tvg-id="CinecanalHD.mx" group-title="Channels",CINECANAL HD
+http://45.58.126.146:14326/
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR CHANNEL HD
+http://45.58.126.146:14329/
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="Channels",STUDIO UNIVERSAL HD
+http://45.58.126.146:14332/
+#EXTINF:0 tvg-id="Syfy.br" group-title="Channels",SYFY HD
+http://45.58.126.146:14335/
+#EXTINF:0 tvg-id="Tbs.br" group-title="Channels",TBS HD
+http://45.58.126.146:14338/
+#EXTINF:0 tvg-id="Tnt.br" group-title="Channels",TNT HD
+http://45.58.126.146:14341/
+#EXTINF:0 tvg-id="Tnt.br" group-title="Channels",TNT HD
+http://45.58.126.146:14342/
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="Channels",TNT SERIES HD
+http://45.58.126.146:14345/
+#EXTINF:0 tvg-id="Universalchannelhd.br" group-title="Channels",UNIVERSAL CHANNEL HD
+http://45.58.126.146:14348/
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Channels",WARNER CHANNEL HD
+http://45.58.126.146:14351/
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",TELECINE ACTION HD
+http://45.58.126.146:14354/
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",TELECINE ACTION HD
+http://45.58.126.146:14510/
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",TELECINE ACTION HD
+https://dmnet.distv.net/auth/150.m3u8/
+#EXTINF:0 tvg-id="Tccult.br" group-title="Channels",TELECINE CULT HD
+https://dmnet.distv.net/auth/151.m3u8/
+#EXTINF:0 tvg-id="Tcfun.br" group-title="Channels",TELECINE FUN HD
+https://dmnet.distv.net/auth/152.m3u8/
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Channels",TELECINE PIPOCA HD
+http://51.83.238.223:16763/
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Channels",TELECINE PREMIUM HD
+https://dmnet.distv.net/auth/154.m3u8/
+#EXTINF:0 tvg-id="Tctouch.br" group-title="Channels",TELECINE TOUCH HD
+https://dmnet.distv.net/auth/155.m3u8/
+

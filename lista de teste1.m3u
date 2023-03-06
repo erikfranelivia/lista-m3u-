@@ -91,7 +91,7 @@ http://45.58.126.146:14332/
 http://45.58.126.146:14335/
 #EXTINF:0 type="stream" channelId="2602" group="FILMES" logo="https://distv.net/icones/tbs.png" tvg-country="BR", TBS HD
 http://45.58.126.146:14338/
-#EXTINF:0 type="stream" channelId="2683" group="FILMES" logo="https://distv.net/icones/tnt.png" tvg-country="BR", TNT UHD
+#EXTINF:0 type="stream" channelId="2683" group="FILMES" logo="https://distv.net/icones/tnt.png" tvg-country="BR", TNT HHD
 http://45.58.126.146:14341/
 #EXTINF:0 type="stream" channelId="2900" group="FILMES" logo="https://distv.net/icones/tnt.png" tvg-country="BR", TNT HD
 http://45.58.126.146:14342/
@@ -103,9 +103,9 @@ http://45.58.126.146:14348/
 http://45.58.126.146:14351/
 #EXTINF:0 type="stream" channelId="2603" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINE ACTION HD
 http://45.58.126.146:14354/
-#EXTINF:0 type="stream" channelId="2603" group="FILMES" logo="" tvg-country="PT", TELECINE ACTION UHD
+#EXTINF:0 type="stream" channelId="2603" group="FILMES" logo="" tvg-country="PT", TELECINE ACTION HD
 http://45.58.126.146:14510/
-#EXTINF:0 type="stream" channelId="2603" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINE ACTION UHD
+#EXTINF:0 type="stream" channelId="2603" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINE ACTION HD
 https://dmnet.distv.net/auth/150.m3u8/
 #EXTINF:0 type="stream" channelId="2605" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINE CULT HD
 https://dmnet.distv.net/auth/151.m3u8/

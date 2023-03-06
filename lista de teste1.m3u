@@ -117,23 +117,3 @@ http://51.83.238.223:16763/
 https://dmnet.distv.net/auth/154.m3u8/
 #EXTINF:0 type="stream" channelId="2611" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", TELECINE TOUCH HD
 https://dmnet.distv.net/auth/155.m3u8/
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", HBO HD
-http://contentzord.gelderland.ga:2095/live/hbo/chunks.m3u8 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", HBO+ HD
-http://51.222.44.30:14081 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", HBO MAX 4 HD
-http://4f.rs:80/Gilvanidog10/Gilvanidog20/1555029.ts 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", HBO MAX 3 HD
-http://4f.rs:80/Gilvanidog10/Gilvanidog20/1555028.ts 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", HBO MAX 2 HD
-http://4f.rs:80/Gilvanidog10/Gilvanidog20/1555027.ts 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", HBO MAX 1 HD
-http://4f.rs:80/Gilvanidog10/Gilvanidog20/1555026.ts 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", HBO 2 HD
-http://15.235.10.31:14381 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem FILMES", HBO HD
-http://contentzord.gelderland.ga:2095/live/hbo/chunks.m3u8?token=87811ad2784ew2d2 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", HBO HD
-http://15.235.10.31:14379 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", HBO HD
-http://195.181.163.144:14606/HBO2

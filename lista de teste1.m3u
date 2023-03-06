@@ -81,7 +81,7 @@ http://45.58.126.146:14317/
 http://45.58.126.146:14320/
 #EXTINF:0 type="stream" channelId="2896" group="FILMES" logo="https://distv.net/icones/space.png" tvg-country="BR", SPACE HD
 http://45.58.126.146:14323/
-#EXTINF:0 type="stream" channelId="284" group="FILMES" logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" tvg-country="BR", CINE CANAL HD
+#EXTINF:0 type="stream" channelId="284" group="FILMES" logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" tvg-country="BR", CINECANAL HD
 http://45.58.126.146:14326/
 #EXTINF:0 type="stream" channelId="1287" group="FILMES" logo="http://127.0.0.1/" tvg-country="BR", STAR CHANNEL HD
 http://45.58.126.146:14329/
@@ -91,7 +91,7 @@ http://45.58.126.146:14332/
 http://45.58.126.146:14335/
 #EXTINF:0 type="stream" channelId="2602" group="FILMES" logo="https://distv.net/icones/tbs.png" tvg-country="BR", TBS HD
 http://45.58.126.146:14338/
-#EXTINF:0 type="stream" channelId="2683" group="FILMES" logo="https://distv.net/icones/tnt.png" tvg-country="BR", TNT HHD
+#EXTINF:0 type="stream" channelId="2683" group="FILMES" logo="https://distv.net/icones/tnt.png" tvg-country="BR", TNT HD
 http://45.58.126.146:14341/
 #EXTINF:0 type="stream" channelId="2900" group="FILMES" logo="https://distv.net/icones/tnt.png" tvg-country="BR", TNT HD
 http://45.58.126.146:14342/

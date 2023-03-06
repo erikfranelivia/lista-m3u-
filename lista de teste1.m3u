@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/erikfranelivia/LISTA-EPG-XMLTV/main/vivo.com.br.channels.xml"
+#EXTM3U x-tvg-url="http://37.58.50.28:2095/get.php?username=Tourobox1-lives9237832962&password=6234456508&type=m3u&output=mpegts"
 #EXTINF:0 type="stream" channelId="2892" group="ABERTOS" logo="https://distv.net/icones/globo.png" tvg-country="BR", GLOBO SP HD
 http://45.58.126.146:14085/
 #EXTINF:0 type="stream" channelId="2892" group="ABERTOS" logo="https://distv.net/icones/globo.png" tvg-country="BR", GLOBO RJ HD
